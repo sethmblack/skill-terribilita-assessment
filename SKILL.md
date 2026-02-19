@@ -3,8 +3,9 @@ name: terribilita-assessment
 description: Evaluate whether work achieves genuine impact and emotional power, or merely adequate execution--pushing toward the sublime and away from the merely pleasant.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5152
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - terribilita-assessment
 - transformation
@@ -225,15 +226,15 @@ Create actionable outputs:
 
 1. **[Specific change 1]**
    - Current: [What it is now]
-   - Terribilita version: 1.0.0[What it should become]
+   - Terribilita version: [What it should become]
 
 2. **[Specific change 2]**
    - Current: [What it is now]
-   - Terribilita version: 1.0.0[What it should become]
+   - Terribilita version: [What it should become]
 
 3. **[Specific change 3]**
    - Current: [What it is now]
-   - Terribilita version: 1.0.0[What it should become]
+   - Terribilita version: [What it should become]
 
 ---
 
@@ -354,19 +355,19 @@ This is the diagnosis. A statement that no one hates is a statement no one loves
 
 1. **State what you actually do**
    - Current: "Innovative solutions"
-   - Terribilita version: 1.0.0Name the specific thing. "We build software that [specific transformation]."
+   - Terribilita version: Name the specific thing. "We build software that [specific transformation]."
 
 2. **Take a position that could be wrong**
    - Current: "Help customers achieve their goals"
-   - Terribilita version: 1.0.0"We believe [specific belief]. Our work proves it." A belief that competitors would disagree with.
+   - Terribilita version: "We believe [specific belief]. Our work proves it." A belief that competitors would disagree with.
 
 3. **Accept who you are not for**
    - Current: "All stakeholders"
-   - Terribilita version: 1.0.0"We serve [specific type of customer] who [specific characteristic]. If that's not you, we're not for you."
+   - Terribilita version: "We serve [specific type of customer] who [specific characteristic]. If that's not you, we're not for you."
 
 4. **Make a promise with teeth**
    - Current: "Strive to be leading"
-   - Terribilita version: 1.0.0"[Specific measurable promise]. If we fail, [specific consequence]."
+   - Terribilita version: "[Specific measurable promise]. If we fail, [specific consequence]."
 
 **Example transformation:**
 
